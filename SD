@@ -1,0 +1,48 @@
+Sales and Marketing Modules:
+Pre-sales and sales activities
+Tracking of sales order
+Sales force automation
+Marketing Surves for estimaing demand
+Target Setting
+Deltailed customer/delaer/business parnter database
+Order processing
+Tracking sales returns
+Excise Details (Export Duty)
+Customer Relationship Management integration
+
+Sales: Orde Placement, Scheduling, Invoicing
+
+Invoicing is done upon merchandise sold on credit, whereas bill is for goods sold upfront
+
+Document Flow in Sales: inquiry (IN) - quotation (QT) - sales order (OR) - delivery - invoice - delivery fee
+
+Sales order Cycle: Pre-Sales Activities - Sales order processing, Inventory Sourcing - delivery - billing - payment
+
+Types of Sales Documents:
+- Pre sales Documents: Inquiry (IN), Quotation (QT)
+- Sales Orders: Standard Sales Order (OR), Cash Sale (BV), Rush Order (SO)
+- Outline Agreements: Quantitiy Contract (CQ), Maintenance Contract (WV), Rental Contract (MV), Scheduling Agreement (DS)
+- Complaints: Credit Memo Request (CR), Debit Memo Request (DB), Returns (RE)
+
+Cash Sales:
+Customer orders, picks up and pays for the goods immediately. Invoice is printed immediately and billing is related to order. No receivables
+
+Rush Order:
+Customer Picks up the order the same day as it is placed. Order and delivery take place, billing is done later.
+
+Sales Agreement:
+Long term agreement, business parnterns, define conitions to product without commiting to quantity. You use sales agreements to offer better prices to a particular customer group for certain products without commiting to quantity
+
+Sales Contract:
+Inormation related to Quantity and value. target values, validtity period, status of contract, expires
+
+Credit Memo:
+From vendor. When ther is a debit on vendor's account and there needs to be a recificatoin in the invoice
+
+Debit Memo:
+Fee on bank statement
+
+
+Client - Highest level in an SAP ERP system
+
+Biling Document is created by copying information from the sales order and delivery document into the billing document which is used to creae the invoice.
